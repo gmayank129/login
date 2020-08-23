@@ -2,13 +2,11 @@
   
    "posts": [
      {
-  "userid" : 1153,
+  "id" : 1153,
   "password" : "ankhi",
   "role" :"manager"
      }
-     ],
+     ]
   
-  "profile": {
-    "name": "typicode"
-  }
+
 }
